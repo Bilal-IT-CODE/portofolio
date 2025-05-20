@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+}
+
+.tab {
+    background-color: aqua;
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+    h1 {
+        color: #a600ff;
+        font-family: monospace;
+        font-size: 37px;
+        text-shadow: 0 3px 10px rgb(237, 120, 255);
+        padding-top: 5px;
+    }
+    a {
+        text-decoration: none;
+        font-size: 17px;
+        font-family: cursive;
+        color: rgb(148, 148, 148);
+        padding-left: 27px;
+    }
+}
+
+a:hover {
+    color: rgb(195, 195, 195);
+}
+
+.des {
+    margin-top: 100px;
+    padding-left: 50px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    h2 {
+        font-size: 80px;
+        text-shadow: 0 3px 7px white;
+        text-decoration: underline;
+    }
+
+    p {
+        font-size: 18px;
+        letter-spacing: 2px;
+        line-height: 30px;
+        margin-left: 450px;
+    }
+}
+
+.copy {
+    color: aliceblue;
+    margin-top: 150px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    h3 {
+        font-family: monospace;
+        font-size: 20px;
+    }
+}
+
+img {
+    width: 150px;
+    border: 7px solid red;
+    float: left;
+}
